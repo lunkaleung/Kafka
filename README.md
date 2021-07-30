@@ -2,11 +2,13 @@
 
 To develop Producer and Consumer application in Kafka data framework with Kafka Java API.
 
-## Prerequisites
-
 To get started with installing and configuring Kafka on local system and create a simple topic and write Java program for Producer and Consumer.
 
-## Deployment
+## Installation
+
+Use Software Project Management and Comprehension Tool Maven [mvn](https://maven.apache.org/) to build the project.
+
+## Usage
 
 ### Compile
 ```
@@ -23,6 +25,10 @@ java -cp target/KafkaAPIClient-1.0-SNAPSHOT-jar-with-dependencies.jar com.spnote
 java -cp target/KafkaAPIClient-1.0-SNAPSHOT-jar-with-dependencies.jar com.spnotes.kafka.simple.Producer [TOPIC_NAME]
 ```
 
-## Built With
-* [Maven](https://maven.apache.org/) - Dependency Management
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
