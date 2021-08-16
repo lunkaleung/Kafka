@@ -6,6 +6,10 @@ To develop Producer and Consumer application in Kafka data framework with Kafka 
 
 To get started with installing and configuring Kafka on local system and create a simple topic and write Java program for Producer and Consumer.
 
+## Architecture
+
+![alt text](Kafka.png)
+
 ## Installation
 
 Use Software Project Management and Comprehension Tool Maven [mvn](https://maven.apache.org/) to build the project.
